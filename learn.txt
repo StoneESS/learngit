@@ -6,4 +6,4 @@ git track the changes
 
 to discard
 
-feature master
+feature dev
