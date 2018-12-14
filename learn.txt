@@ -5,3 +5,5 @@ change the second line
 git track the changes
 
 to discard
+
+feature 1
